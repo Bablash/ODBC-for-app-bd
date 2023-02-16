@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataBase">
+    <Position X="23.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAACAAAAAAABQEgCAAAQAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Connect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository">
+    <Position X="21" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGgABAJCCErwAAESGIBJGBRAAANAAQYLBCkgDEgAggU=</HashCode>
+      <FileName>Repository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="City">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAiABAAICCAACAAAAAAAAAACAAAgAAAAggA=</HashCode>
+      <FileName>City.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MgIAAQAAAAAAAAAAAGBEAARAAAAEAABgAAIlIAUQAiU=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAQAAAAECAAAAAAAAAEAABBAAAkBAAAAgA=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Country">
+    <Position X="28.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAACCAAAAAAAAIAgAACAAAgAAAAggA=</HashCode>
+      <FileName>Country.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee">
+    <Position X="25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IkIAAAQAQAAgAAIgAGAEAARACAIkAAhiAgIkIgwAAiI=</HashCode>
+      <FileName>Employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flights">
+    <Position X="26.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAyAgAAASAAAAAAAKgAAAAAAAACACAAAgCQGQADA=</HashCode>
+      <FileName>Flights.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel">
+    <Position X="28.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEACAAAAAAAAACAIgAAQAAAEAAFQAAAkAAAAAhA=</HashCode>
+      <FileName>Hotel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Route">
+    <Position X="23.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAJAAAjAIAAAAOBICAQAACAEAABCBAAkAAgAAgQ=</HashCode>
+      <FileName>Route.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ticket">
+    <Position X="26.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAARAAEAAAQQABCECAAAAAAAAAAAAABAAAgBAAAAgA=</HashCode>
+      <FileName>Ticket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transfer">
+    <Position X="28.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAASQAggACCAAAACAAAQAAAAAAACgAAAAgAQAAAiA=</HashCode>
+      <FileName>Transfer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CityMapper">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAEAAAAAiIAAAAAAAEACAAAEEAAAAgA=</HashCode>
+      <FileName>CityMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientMapper">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAECAAAEAAAAEgIBAAAAEIEAgAAAAEQAAAgA=</HashCode>
+      <FileName>ClientMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mapper&lt;DataT&gt;" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACQAAEACAAAgIAAAAAAAEAAAAAAEAAAAAA=</HashCode>
+      <FileName>Mapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyMapper">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAEAEAAAgIAAAAAEAEAAIAAAEAAAAgA=</HashCode>
+      <FileName>CompanyMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CountryMapper">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAEAAAAAgIAAAAAAAEACAAAAEAAAAkA=</HashCode>
+      <FileName>CountryMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeMapper">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAACECgAAEAAAAEgIAAAAIEAEggAAAAEAAAAgI=</HashCode>
+      <FileName>EmployeeMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightsMapper">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAiAgAECAAAEAAAAAgIAAAAAAAEAAAAAAEQIAABA=</HashCode>
+      <FileName>FlightsMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelMapper">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAEAAAAAgIAQAAAEAEAAAQAAEAAAAhA=</HashCode>
+      <FileName>HotelMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RouteMapper">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAEHAAAEAAAAIiIAAAAAEAEAAAAAAEAAAAgQ=</HashCode>
+      <FileName>RouteMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketMapper">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAECAAAFAEAAAgIAAAAAAAEAAAAAAFAAAAgA=</HashCode>
+      <FileName>TicketMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransferMapper">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAkCAAAEAAAAAgIAAAAAEAEgAAAAAEQAAAgA=</HashCode>
+      <FileName>TransferMapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

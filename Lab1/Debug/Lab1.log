@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\CompanyMapper.h(8,1): warning C4005: NAME_LENGTH: изменение макроопределения
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\ClientMapper.h(9): message : см. предыдущее определение "NAME_LENGTH"
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\EmployeeMapper.h(8,1): warning C4005: SURNAME_LENGTH: изменение макроопределения
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\ClientMapper.h(8): message : см. предыдущее определение "SURNAME_LENGTH"
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\EmployeeMapper.h(9,1): warning C4005: NAME_LENGTH: изменение макроопределения
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\CompanyMapper.h(8): message : см. предыдущее определение "NAME_LENGTH"
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\EmployeeMapper.h(10,1): warning C4005: PATRONYMIC_LENGTH: изменение макроопределения
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\ClientMapper.h(10): message : см. предыдущее определение "PATRONYMIC_LENGTH"
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\HotelMapper.h(8,1): warning C4005: NAME_LENGTH: изменение макроопределения
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\EmployeeMapper.h(9): message : см. предыдущее определение "NAME_LENGTH"
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\TransferMapper.h(8,1): warning C4005: NUM_SIZE: изменение макроопределения
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\FlightsMapper.h(7): message : см. предыдущее определение "NUM_SIZE"
+C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Lab1\main.cpp(21,7): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Lab1.vcxproj -> C:\Users\Мария Балашова\Documents\7 семестр\РПБД (Менжулин)\Lab1\Debug\Lab1.exe
